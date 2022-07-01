@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm AMARSAI CHOWDARY</h1>
 <h3 align="center">  PASSIONATE FULL STACK DEVELOPER && AWS FROM INDIA</h3>
-<img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1525373698358-041e3a460346?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80">
+<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/photos/closeup-focus-on-persons-hands-typing-on-the-desktop-computer-backlit-picture-id1356364287?b=1&k=20&m=1356364287&s=170667a&w=0&h=tUdqxKA9YwL4M57YRZzP1GTEpXcUm5-onFeQnsMg10A=">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarsai143&label=Profile%20views&color=0e75b6&style=flat" alt="amarsai143" /> </p>
 
